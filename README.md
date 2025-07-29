@@ -52,3 +52,9 @@ SolVolume is an advanced trading bot specifically designed for the Solana blockc
 2. **Use Your Key**: Enter the key in the prompt and download SolVolume for free evaluation.
 
 For further assistance or inquiries, please reach out via our [Telegram Account](https://t.me/inscNix).
+
+
+## 💝 Support This Project
+If you find this useful, consider supporting:
+- Crypto: `53UfwcwexQXUpznebBaXj4Ythdh22AB7DekdftN9vftp`
+- GitHub Sponsors: [Sponsor Me](https://github.com/sponsors)
